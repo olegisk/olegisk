@@ -38,7 +38,7 @@ I've been working as a full stack developer. My areas:
 [woocommerce]: https://woocommerce.com/
 [prestashop]: https://www.prestashop.com/
 [shopify]: https://www.shopify.com/
-[linked-in]: https://www.linkedin.com/in/oleg-iskusnyh-40300b30/
+[linked-in]: https://www.linkedin.com/in/oleg-iskusnykh/
 [upwork]: https://www.upwork.com/freelancers/~01291b7f9ddd3a0a51
 [limegrow-ingenico-ps]: https://github.com/limegrow/ingenico-ogone-prestashop-payments
 [limegrow-ingenico-m2]: https://github.com/limegrow/ingenico-m2-payments
